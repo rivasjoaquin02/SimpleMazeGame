@@ -1,8 +1,6 @@
-.idea/
+/.idea/
 /cmake-build-debug-mingw/SimpleMazeGame.exe
 /cmake-build-debug-mingw/SimpleMazeGame.cbp
-
-
-cmake-build-debug-mingw/cmake_install.cmake
-cmake-build-debug-mingw/CMakeCache.txt
-cmake-build-debug-mingw/CMakeFiles/*
+/cmake-build-debug-mingw/cmake_install.cmake
+/cmake-build-debug-mingw/CMakeCache.txt
+/cmake-build-debug-mingw/CMakeFiles/*
