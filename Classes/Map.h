@@ -10,22 +10,21 @@
 class Map {
 public:
     MapCells Cells[100][100];
+    int sizeX, sizeY;
 
     /* Map constructor */
-    Map();
+    Map(int X, int Y);
 
-    /* Draw functions */
     void Draw();
-    static void DrawStart();
-    static void DrawWin();
-    static void DrawLose();
 
     /* Load & Save Map */
     void LoadGameMap();
     void SaveGameMap();
 
-    /* delete last player position */
+    /* delete last (player, enemy) position */
     void DeletePlayerPosition(int x, int y);
+    void DeleteEnemyPosition(int x, int y);
+
 
     /* Set Player Position */
     void SetPlayerPosition(int x, int y);

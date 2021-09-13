@@ -1,3 +1,5 @@
 # SIMPLE MAZE GAME (shit game)
 
-## blablblalal
+## Images
+
+:::image type="content" source="photo/mazegame.png" alt-text="image1":::

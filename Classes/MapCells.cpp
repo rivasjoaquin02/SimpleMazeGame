@@ -1,7 +1,3 @@
-//
-// Created by strange on 11/9/2021.
-//
-
 #include "MapCells.h"
 
 MapCells::MapCells() {

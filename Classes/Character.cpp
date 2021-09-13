@@ -1,7 +1,3 @@
-//
-// Created by strange on 11/9/2021.
-//
-
 #include "Character.h"
 
 Character::Character(int X, int Y) {

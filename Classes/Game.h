@@ -25,10 +25,15 @@ public:
     bool GetGameWin() const;
     void SetGameWin();
 
+    /* Draw functions */
+
+    static void DrawStart();
+    static void DrawWin();
+    static void DrawLose();
+
     /* Player Move */
     void PlayerMove(Character *Player, Map *Map);
-
-
+    void EnemyMove(Character *Enemy, Map *Map);
 };
 
 
