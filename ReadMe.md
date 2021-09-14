@@ -10,7 +10,7 @@
   <p align="center">
     A simple shit console game
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/rivasjoaquin02/SimpleMazeGame"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/rivasjoaquin02/SimpleMazeGame">View Demo</a>
